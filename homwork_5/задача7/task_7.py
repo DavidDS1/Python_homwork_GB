@@ -15,3 +15,5 @@ average_profit =pos_sum/pos_count
 # print(average_profit)
 result_list.append([result_dict, {'average_profit': average_profit}])
 print(result_list)
+with open ('result_json.json', 'w') as data_json:
+    json.dump(result_list, data_json)
