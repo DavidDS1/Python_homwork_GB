@@ -1,0 +1,4 @@
+Ivanov 15000
+Sidorov 25000
+Prokhorov 13000
+Nesterenko 30000
