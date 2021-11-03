@@ -9,3 +9,4 @@ class Road:
         return print(f'{weight_ton} тонн')
 materials= Road(1000, 10)
 materials.weight()
+
