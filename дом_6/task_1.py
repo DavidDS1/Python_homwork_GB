@@ -11,3 +11,5 @@ class TrafficLight:
                 time.sleep(result_dict.setdefault(k))
             j += 1
         return ' '
+ trfl = TrafficLight()
+print(trfl.running())
